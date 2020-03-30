@@ -73,7 +73,7 @@ h4 {
     color: white;
     font-family: sans-serif;
     font-size: 1em;
-    padding-top: 25px;
+    padding-top: 30px;
 }
 .clear {
     clear: both;
@@ -89,7 +89,7 @@ h4 {
     height: 80px;
 }
 .count {
-    width: 33%;
+    width: 32%;
     font-size: 26px;
     background-color: inherit;
     color: white;
