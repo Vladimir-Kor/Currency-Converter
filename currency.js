@@ -14,7 +14,7 @@ let options = {
     day: 'numeric',
     weekday: 'long'
 };
-   today.innerHTML = "Date: "+date.toLocaleString("en-US", options); 
+   today.innerHTML = "To day: "+date.toLocaleString("en-US", options); 
 
     $.ajax({
         type: 'get',
