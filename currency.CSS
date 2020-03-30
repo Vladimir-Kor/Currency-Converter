@@ -8,12 +8,12 @@ body {
     font-size: 1.7em;
     font-family: Comic Sans MS;
     font-style: italic;
-    min-width: 400px;
-    max-width: 520px;
+    min-width: 15em;
+    max-width: 27em;
 }
 .container {
-    min-width: 400px;
-    max-width: 520px;
+    min-width: 25em;
+    max-width: 33em;
     border-radius: 15px;
     margin: 0 auto auto auto;
     background-color: black;
@@ -47,7 +47,7 @@ body {
     height: 340px;
     text-align: center;
     font-family: sans-serif;
-    margin: 65px auto 0px auto;
+    margin: 63px auto 0px auto;
 }
 #usd,
 #eur,
@@ -73,7 +73,7 @@ h4 {
     color: white;
     font-family: sans-serif;
     font-size: 37px;
-    padding-top: 27px;
+    padding-top: 25px;
 }
 .clear {
     clear: both;
