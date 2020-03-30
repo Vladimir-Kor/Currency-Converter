@@ -118,4 +118,5 @@ footer {
     text-align: center;
     font-size: 16px;
     margin-top: 15px;
+    min-width: 400px;
 }
