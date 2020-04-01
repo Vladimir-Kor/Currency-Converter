@@ -50,6 +50,25 @@ let options = {
             btcSale.innerHTML += (+BTC.sale)+" &#36;";
         }    
     });
+
+function startTime() {
+    let time = new Date();
+    let hours = time.getHours();
+    let minutes = time.getMinutes();
+    let seconds = time.getSeconds();
+    minutes = checkTime(minutes);
+    seconds = checkTime(seconds);
+    document.getElementById('time').innerHTML = hours+":"+minutes+":"+seconds;
+    t=setTimeout('startTime()',500);
+}
+
+function checkTime(i){
+    if (i<10){
+        i="0" + i;
+    }
+    return i;
+}
+
 function passChangedValue(){
     converting();
 }
