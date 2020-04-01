@@ -32,7 +32,7 @@ body {
     color: chartreuse;
     font-size: 2em;
     text-align: center;
-    height: 70%;
+    height: 68%;
     width: 45%;
 }
 #sideBarL {
@@ -84,6 +84,13 @@ h4 {
     color: gold;
     font-size: x-large;
     height: 37px;
+}
+.time {
+    height: 27px;
+    color: white;
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 1.2em; 
 }
 .currencyContainer {
     height: 80px;
