@@ -59,7 +59,7 @@ function startTime() {
     minutes = checkTime(minutes);
     seconds = checkTime(seconds);
     document.getElementById('time').innerHTML = hours+":"+minutes+":"+seconds;
-    t=setTimeout('startTime()',500);
+    t = setTimeout('startTime()',500);
 }
 
 function checkTime(i){
