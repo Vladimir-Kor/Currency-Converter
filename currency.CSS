@@ -4,12 +4,12 @@ body {
 .header {
     color: darkgrey;
     text-align: center;
-    margin: 2% auto 1% auto;
+    margin: 1% auto 1% auto;
     font-size: 1.7em;
     font-family: Comic Sans MS;
     font-style: italic;
-    min-width: 15em;
-    max-width: 17em;
+    min-width: 400px;
+    max-width: 510px;
 }
 .container {
     min-width: 25em;
