@@ -13,7 +13,7 @@ body {
 }
 .container {
     min-width: 25em;
-    max-width: 33em;
+    max-width: 30em;
     border-radius: 15px;
     margin: 0 auto auto auto;
     background-color: black;
@@ -30,10 +30,10 @@ body {
 #sideBarL,
 #sideBarR {
     color: chartreuse;
-    font-size: 2em;
+    font-size: 1.9em;
     text-align: center;
     height: 68%;
-    width: 45%;
+    width: 44%;
 }
 #sideBarL {
     float: left;
@@ -42,9 +42,9 @@ body {
     float: right;
 }
 #content {
-    width: 10%;
-    font-size: 76px;
-    height: 340px;
+    width: 8%;
+    font-size: 74px;
+/*     height: 340px; */
     text-align: center;
     font-family: sans-serif;
     margin: 63px auto 0px auto;
@@ -53,7 +53,7 @@ body {
 #eur,
 #rub,
 #btc {
-    font-size: 53px;
+    font-size: 50px;
     color: gold;
 }
 
@@ -96,11 +96,11 @@ h4 {
     height: 80px;
 }
 .count {
-    width: 33%;
+    width: 31%;
     font-size: 26px;
     background-color: inherit;
     color: white;
-    margin-top: 15px;
+    margin-top: 8px;
     padding-left: 10px;
     border: none;
     cursor: pointer;
