@@ -8,11 +8,11 @@ body {
     font-size: 1.7em;
     font-family: Comic Sans MS;
     font-style: italic;
-    min-width: 400px;
+    min-width: 372px;
     max-width: 510px;
 }
 .container {
-    min-width: 25em;
+    min-width: 23em;
     max-width: 30em;
     border-radius: 15px;
     margin: 0 auto auto auto;
@@ -33,7 +33,7 @@ body {
     font-size: 1.9em;
     text-align: center;
     height: 68%;
-    width: 44%;
+    width: 46%;
 }
 #sideBarL {
     float: left;
@@ -43,11 +43,10 @@ body {
 }
 #content {
     width: 8%;
-    font-size: 74px;
-/*     height: 340px; */
+    font-size: 75px;
     text-align: center;
     font-family: sans-serif;
-    margin: 63px auto 0px auto;
+    margin: 58px auto 0px auto;
 }
 #usd,
 #eur,
@@ -82,7 +81,7 @@ h4 {
     text-align: center;
     font-family: Comic Sans MS;
     color: gold;
-    font-size: x-large;
+    font-size: 1.4em;
     height: 37px;
 }
 .time {
@@ -96,8 +95,8 @@ h4 {
     height: 80px;
 }
 .count {
-    width: 31%;
-    font-size: 26px;
+    width: 30%;
+    font-size: 25px;
     background-color: inherit;
     color: white;
     margin-top: 8px;
