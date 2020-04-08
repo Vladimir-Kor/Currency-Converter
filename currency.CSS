@@ -12,7 +12,7 @@ body {
     max-width: 510px;
 }
 .container {
-    min-width: 24em;
+    min-width: 25em;
     max-width: 30em;
     border-radius: 15px;
     margin: 0 auto auto auto;
